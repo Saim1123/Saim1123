@@ -1,42 +1,64 @@
-# Hi there 👋, I'm Saim
+<!-- Banner / Header -->
+<div align="center">
 
-🚀 **Full-Stack Developer | AI Enthusiast | Backend Engineer in Progress**  
+# Saim Tahir
 
-I’m passionate about building scalable web apps, exploring AI/ML, and creating tools that make life easier. Currently, I’m diving deep into **Node.js backend engineering** and experimenting with **AI integrations** in real-world projects.
+**Full-Stack Developer · Backend Engineer · AI Enthusiast**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saimtahir)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saimtahir3211@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Saim1123)
 
-## 🔧 Tech Stack
-
-**Languages & Frameworks:**  
-- JavaScript | TypeScript | Go | Python  
-- React | Next.js | Remix | Flutter | Node.js | Express  
-
-**Databases & Tools:**  
-- PostgreSQL | MongoDB | Prisma | Neon  
-- Git | Docker | Stripe API | Zustand | Shopify Polaris  
+</div>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Backend Engineering** (Node.js + Go)  
-- **AI/ML Engineering** (Python, Math foundations, ML models)  
-- **Shopify App Development** with Remix + Polaris  
+## About
+
+I build scalable web applications, explore AI/ML systems, and ship developer tools that solve real problems. Currently deepening my expertise in **Node.js backend engineering** and **AI integrations**, while pursuing a CS degree.
 
 ---
 
-## 📂 Featured Projects
-- 💡 **E-commerce Perfume Store** – Full-stack web app with payments  
-- ⚡ **Node.js Project Scaffolder (NPM package)** – Automates project setup  
-- 🚚 **Delivery Tracker SaaS** – For small Pakistani shops to send updates via SMS/WhatsApp  
+## Tech Stack
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | JavaScript · TypeScript · Go · Python |
+| **Frontend** | React · Next.js · Remix · Flutter |
+| **Backend** | Node.js · Express |
+| **Databases** | PostgreSQL · MongoDB · Prisma · Neon |
+| **Tools & Platforms** | Git · Docker · Stripe API · Shopify Polaris |
 
 ---
 
-## 📫 Connect With Me
-- GitHub: [github.com/your-username](https://github.com/Saim1123)  
-- LinkedIn: [linkedin.com/in/your-link](http://linkedin.com/in/saimtahir)  
-- Email: saimtahir3211@gmail.com  
+## Currently Learning
+
+- Advanced **Backend Engineering** — Node.js & Go
+- **AI/ML Engineering** — Python, mathematical foundations, model development
+- **Shopify App Development** — Remix + Polaris
 
 ---
 
-⭐️ *"Keep building, keep learning, and keep shipping!"*  
+## Selected Projects
+
+| Project | Description |
+|---|---|
+| **E-commerce Perfume Store** | Full-stack storefront with integrated payment processing |
+| **Node.js Project Scaffolder** | Published NPM package that automates backend project setup |
+| **Delivery Tracker SaaS** | WhatsApp/SMS order update system for small Pakistani retailers |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Saim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saim1123&show_icons=true&hide_border=true&theme=default)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to collaborations, interesting problems, and good conversations.</sub>
+</div>
