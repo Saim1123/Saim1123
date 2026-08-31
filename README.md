@@ -24,16 +24,16 @@ I build scalable web applications, explore AI/ML systems, and ship developer too
 | Layer | Technologies |
 |---|---|
 | **Languages** | JavaScript · TypeScript · Go · Python |
-| **Frontend** | React · Next.js · Remix · Flutter |
-| **Backend** | Node.js · Express |
-| **Databases** | PostgreSQL · MongoDB · Prisma · Neon |
+| **Frontend** | React · Next.js · Shopify Apps |
+| **Backend** | Node.js · Express · Nest |
+| **Databases** | PostgreSQL · MongoDB · Prisma |
 | **Tools & Platforms** | Git · Docker · Stripe API · Shopify Polaris |
 
 ---
 
 ## Currently Learning
 
-- Advanced **Backend Engineering** — Node.js & Go
+- Advanced **Backend Engineering** — Nest & Golang
 - **AI/ML Engineering** — Python, mathematical foundations, model development
 - **Shopify App Development** — Remix + Polaris
 
